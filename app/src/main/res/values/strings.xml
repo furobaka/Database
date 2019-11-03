@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="load_label">Search</string>
+    <string name="save_label">Save</string>
+</resources>
